@@ -9,12 +9,13 @@ import {
 } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAXuOVLT6ClPl-v5-Tdq1sTf52MF1E90qA",
-  authDomain: "nicequotes-30078.firebaseapp.com",
-  projectId: "nicequotes-30078",
-  storageBucket: "nicequotes-30078.appspot.com",
-  messagingSenderId: "779009177089",
-  appId: "1:779009177089:web:b79e3a14f7f49f877d3200"
+  // TODO: Konfiguration des Firebase-Projekts eintragen
+  apiKey: 'APIKEY',
+  authDomain: 'AUTHDOMAIN',
+  databaseURL: 'DATABASEBURL',
+  projectId: 'PROJECTID',
+  storageBucket: 'STORAGEBUCKET',
+  messagingSenderId: 'MESSAGINGSENDERID'
 };
 
 
